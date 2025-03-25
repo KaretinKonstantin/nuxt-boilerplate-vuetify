@@ -28,6 +28,9 @@
     "typescript": "^5.8.2",
     "eslint-plugin-prettier": "^5.2.4",
     "vue-tsc": "^2.2.8"
+  },
+  "volta": {
+    "node": "20.12.1",
+    "yarn": "1.22.22"
   }
-
 }
